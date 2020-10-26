@@ -1,0 +1,4 @@
+---
+layout: default
+---
+new post
