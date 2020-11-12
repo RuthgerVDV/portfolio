@@ -1,4 +1,4 @@
 ---
 layout: default
 --- 
-<p dit is een paragraaf>
+<p dit is een paragraaf></p>
