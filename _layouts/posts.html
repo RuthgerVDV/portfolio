@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Title of the document</title>
-    <link rel="stylesheet" href="/stylesheet.css">
-</head>
-<body>
+{% include header.html %}
+
+<ul>
 {% for item in site.posts %}
-<a href="{{ item.url }}">{{ item.title }}</a>
-<br>
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
-</body>
-</html> 
+</ul>
+
+{% include footer.html %}
