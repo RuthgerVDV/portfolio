@@ -3,6 +3,6 @@ permalink: pretty
 
 collections: 
   posts: 
-    permalink: /blog/:title
+    permalink: blog/:title
   pages:
-    permalink: /:title
+    permalink: :title
