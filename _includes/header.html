@@ -1,3 +1,4 @@
+{% assign postslength = site.posts.size | minus: 1 %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,4 +6,10 @@
     <link rel="stylesheet" href="/stylesheet.css">
 </head>
 <body>
-    <h1>Portfolio van Ruthger van de Vosse</h1>
+    <div>Portfolio van Ruthger van de Vosse</div>
+
+    <h2>Menu</h2>
+    <ul>
+        <li><a href="{{ site.url }}">Home</a></li>
+        <li><a href="{{ site.posts[postslength].url }}">Hoe het allemaal begon...</a></li>
+    </ul>

@@ -1,5 +1,9 @@
 {% include header.html %}
 
+<h1>{{ page.title }}</h1>
+{{content}}
+
+<h2>Laatste berichten</h2>
 <ul>
 {% for item in site.posts %}
     <li><a href="{{ item.url }}">{{ item.title }}</a></li>
