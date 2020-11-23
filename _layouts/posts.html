@@ -5,6 +5,9 @@
     <link rel="stylesheet" href="/stylesheet.css">
 </head>
 <body>
-{{content}}
+{% for item in site.posts %}
+<a href="{{ item.url }}">{{ item.title }}</a>
+<br>
+{% endfor %}
 </body>
 </html> 

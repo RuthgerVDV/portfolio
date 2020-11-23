@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: posts
 --- 
-<p>is een paragraaf</p>
+<p>dit is een paragraaf</p>
