@@ -1,1 +1,7 @@
-permalink: /portfolio/blog/:title/
+permalink: pretty
+
+collections: 
+  posts: 
+    permalink: /portfolio/blog/:title/
+  pages:
+    permalink: /portfolio/:title/
