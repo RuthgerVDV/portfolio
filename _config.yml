@@ -1,7 +1,9 @@
+url: https://ruthgervdv.github.io
+baseurl: /portfolio
 permalink: pretty
 
 collections: 
   posts: 
-    permalink: /portfolio/blog/:title/
+    permalink: /blog/:title
   pages:
-    permalink: /portfolio/:title/
+    permalink: /:title
