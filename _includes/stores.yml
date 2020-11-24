@@ -67,7 +67,7 @@ url: http://www.bridallounge.nl
 address: Hoeksteen 57
 title: Kappe Logistics
 city: Hoofddorp
-zip: 2130
+zip: '2130'
 country: Netherlands
 lat: 52.292783
 lng: 4.720284
@@ -119,7 +119,7 @@ url: http://www.thebrideside.nl/
 address: Generaal Cronjestraat 98-102
 title: Van den Broek Herenmode
 city: Haarlem
-zip: 2021
+zip: '2021'
 country: Netherlands
 lat: 52.394842
 lng: 4.642187
@@ -158,7 +158,7 @@ url:
 address: Zeestraat 2 AA
 title: Doolhof Mode
 city: Volendam
-zip: 1131
+zip: '1131'
 country: Netherlands
 lat: 52.493539
 lng: 5.07454
@@ -1054,7 +1054,7 @@ url:
 ---
 address: Smidsweg 5-7
 title: Voorwinden Modemall
-city: \u00e2\u20ac\u02dcs Gravendeel
+city: "'s Gravendeel"
 zip: 3295 BT
 country: Netherlands
 lat: 51.779939
@@ -1288,7 +1288,7 @@ url: http://www.lemichelbruidsmode.nl/
 ---
 address: Verwersstraat 20
 title: Joris Lammers
-city: \u00e2\u20ac\u02dcs Hertogenbosch
+city: "'s Hertogenbosch"
 zip: 5211 HW
 country: Netherlands
 lat: 51.687557
@@ -1367,7 +1367,7 @@ url:
 address: Velperbinnensingel 9
 title: TailormadeSuits
 city: Arnhem
-zip: 6821
+zip: '6821'
 country: Netherlands
 lat: 51.981355
 lng: 5.91334
@@ -1523,7 +1523,7 @@ url: http://www.trouwenmetdonna.nl
 address: Kleinzand 145
 title: Bruidsboetiek Marianna
 city: Sneek
-zip: 8608
+zip: '8608'
 country: Netherlands
 lat: 53.033033
 lng: 5.664949
@@ -1796,7 +1796,7 @@ url:
 address: Lijnbaan 7
 title: De Heeren van Rinsma
 city: Gorredijk
-zip: 8401
+zip: '8401'
 country: Netherlands
 lat: 53.002835
 lng: 6.066378
@@ -1835,7 +1835,7 @@ url:
 address: Veerstraat 5
 title: Bruidshuis Diana
 city: Boxmeer
-zip: 5831
+zip: '5831'
 country: Netherlands
 lat: 51.648158
 lng: 5.951616
@@ -1913,7 +1913,7 @@ url:
 address: Uedemer strasse 101
 title: Brautatelier Mala
 city: Bedburg Hau
-zip: 47551
+zip: '47551'
 country: Germany
 lat: 51.763154
 lng: 6.18413
@@ -2095,7 +2095,7 @@ url: http://www.vanwesten.nl
 address: Meester Nelissenstraat 23
 title: Modehuis Beijer Besselink
 city: Beltrum
-zip: 7156
+zip: '7156'
 country: Netherlands
 lat: 52.067757
 lng: 6.563742
@@ -2108,7 +2108,7 @@ url: http://www.beijerbesselink.nl
 address: Singelstraat 15
 title: Steutel Herenmode
 city: Goes
-zip: 4461
+zip: '4461'
 country: Netherlands
 lat: 51.502708
 lng: 3.890179
@@ -2147,7 +2147,7 @@ url:
 address: Eeftinkstraat 2
 title: Tres Chic
 city: Hengevelde
-zip: 7496
+zip: '7496'
 country: Netherlands
 lat: 52.201626
 lng: 6.633114
@@ -2199,7 +2199,7 @@ url:
 address: Bredabaan 301
 title: Stephanoff
 city: Brasschaat
-zip: 2930
+zip: '2930'
 country: Belgium
 lat: 51.288528
 lng: 4.488662
@@ -2212,7 +2212,7 @@ url:
 address: Bredabaan 251
 title: GD Fashion
 city: Brasschaat
-zip: 2930
+zip: '2930'
 country: Belgium
 lat: 51.287541
 lng: 4.486811
@@ -2264,7 +2264,7 @@ url:
 address: Straalstraat 2
 title: Het Bruidsparadijs
 city: Merksem (Antwerpen)
-zip: 2170
+zip: '2170'
 country: Belgium
 lat: 51.241095
 lng: 4.452143
@@ -2277,7 +2277,7 @@ url:
 address: Kerkstraat 20
 title: Bruidskleding Lecoq
 city: Lommel
-zip: 3920
+zip: '3920'
 country: Belgium
 lat: 51.230233
 lng: 5.310689
@@ -2316,7 +2316,7 @@ url:
 address: Minderbroedersrui 49
 title: La Tiara
 city: Antwerpen
-zip: 2000
+zip: '2000'
 country: Belgium
 lat: 51.221632
 lng: 4.405186
@@ -2342,7 +2342,7 @@ url:
 address: Francelei 72
 title: Le Chapeau Antwerpen
 city: Antwerpen
-zip: 2000
+zip: '2000'
 country: Belgium
 lat: 51.219877
 lng: 4.401136
@@ -2394,7 +2394,7 @@ url:
 address: Jan van Rijswijcklaan 69
 title: JPC Collection
 city: Antwerpen
-zip: 2018
+zip: '2018'
 country: Belgium
 lat: 51.196566
 lng: 4.406292
@@ -2433,7 +2433,7 @@ url:
 address: Lindenstrasse 7
 title: La Novia
 city: Rhede
-zip: 46414
+zip: '46414'
 country: Germany
 lat: 51.837354
 lng: 6.692129
@@ -2472,7 +2472,7 @@ url:
 address: Antwerpsesteenweg 19
 title: Linx Antwerpen
 city: Aartselaar
-zip: 2630
+zip: '2630'
 country: Belgium
 lat: 51.14109
 lng: 4.377879
@@ -2485,7 +2485,7 @@ url:
 address: Br\u00c3\u00bcckstr. 32-34
 title: Modehaus Abram Babiacki Ohg
 city: Wesel
-zip: 46483
+zip: '46483'
 country: Germany
 lat: 51.663334
 lng: 6.619225
@@ -2498,7 +2498,7 @@ url:
 address: Kerkstraat 24
 title: Nika Couture
 city: Stekene
-zip: 9190
+zip: '9190'
 country: Belgium
 lat: 51.209443
 lng: 4.037215
@@ -2537,7 +2537,7 @@ url:
 address: Driekoningen 2
 title: De Waele BVBA
 city: Sint - Niklaas
-zip: 9100
+zip: '9100'
 country: Belgium
 lat: 51.171659
 lng: 4.1444
@@ -2550,7 +2550,7 @@ url: http://www.kleding-dewaele.be
 address: Beverlo-Dorp 4
 title: E&#038;R Wedding and Fashion
 city: Beringen
-zip: 3580
+zip: '3580'
 country: Belgium
 lat: 51.088011
 lng: 5.222303
@@ -2563,7 +2563,7 @@ url: http://www.erwedding.be
 address: Kapelstraat 111A
 title: Boutique Couture
 city: St-Niklaas
-zip: 9100
+zip: '9100'
 country: Belgium
 lat: 51.150689
 lng: 4.155346
@@ -2589,7 +2589,7 @@ url:
 address: August Wauterstraat 11
 title: Couture Rachel
 city: Temse
-zip: 9140
+zip: '9140'
 country: Belgium
 lat: 51.12726
 lng: 4.21908
