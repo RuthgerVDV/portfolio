@@ -4,7 +4,7 @@ a {color: #3d2f26;}
 
 #menu {border: 1px solid black; border-left: 0; border-right: 0;}
 #menu h2 {display: none;}
-#menu ul {display: flex; justify-content: flex-start;}
+#menu ul {display: flex; justify-content: flex-start; list-style: none;}
 #menu ul li {margin-right: 2rem;}
 
 #store-locator {display: flex; height: 450px;}
