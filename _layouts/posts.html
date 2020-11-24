@@ -10,4 +10,16 @@
 {% endfor %}
 </ul>
 
+
+<div id="map"></div>
+{% for item in site.markers %}
+<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+{{ item.address }}
+{{ item.phone }}
+{{ item.email }}
+<br>
+{% endfor %}
+
+{% include mapfooter.html %}
+
 {% include footer.html %}

@@ -1,2 +1,5 @@
 url: https://ruthgervdv.github.io
 baseurl: /portfolio
+collections:
+  markers:
+    output: false
