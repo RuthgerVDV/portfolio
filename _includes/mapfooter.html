@@ -1,12 +1,17 @@
 <script>
 
+
+    function onClick(e) {
+        document.location.href = this.url;
+    }
+
     markers = [
         {% for item in site.markers %}
             {% if item.lat and item.lng %}
                 {% assign i = i | plus: 1 %}{% if i > 1 %},{% endif %}
                 {
                     "name": '{{ item.title | replace:"'","\'" }}',
-                    "url": "{{ item.url | prepend: site.url }}",
+                    "url": "{{ item.url | prepend: site.baseurl | prepend: site.url }}",
                     "lat": {{ item.lat }},
                     "lng": {{ item.lng }}
                 }
@@ -14,9 +19,9 @@
         {% endfor %}
     ];
     var map = L.map( 'map', {
-        center: [52.327030, 4.859848],
+        {% if page.lat %}center: [{{ page.lat }},{{ page.lng }}],{% else %}center: [52.345511688429895,4.876032838309659],{% endif %}
         minZoom: 5,
-        zoom: 16,
+        {% if page.lat %}zoom: 11,{% else %}zoom: 6,{% endif %}
         scrollWheelZoom: false,
         zoomControl: true
     });
@@ -43,7 +48,7 @@
             const longitude = position.coords.longitude;
 
             status.textContent = '';
-            map.flyTo([latitude, longitude], 14)
+            map.flyTo([latitude, longitude], 11);
         }
 
         function error() {
@@ -59,6 +64,6 @@
 
     }
     
-    document.querySelector('#find-me').addEventListener('click', geoFindMe);
+    document.querySelector('#findme').addEventListener('click', geoFindMe);
 
 </script>
