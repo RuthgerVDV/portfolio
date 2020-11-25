@@ -234,19 +234,6 @@ url:
 
 ---
 address: Nieuweweg 51
-title: test
-city: Laren
-zip: 
-country: Netherlands
-lat: 52.255232
-lng: 5.222633
-phone: 
-email: 
-url: 
----
-
----
-address: Nieuweweg 51
 title: Webshop Abrazi
 city: Laren NH
 zip: 1251
@@ -286,7 +273,7 @@ url:
 
 ---
 address: Zevenend 2e
-title: Parlare L&#8217;UOmo
+title: Parlare L'uomo
 city: Laren
 zip: 1251 RN
 country: Netherlands
@@ -299,7 +286,7 @@ url:
 
 ---
 address: Heerenweg 28
-title: Bruidshuis Anne &#038; Maartje
+title: Bruidshuis Anne & Maartje
 city: Heiloo
 zip: 1851 KS
 country: Netherlands
@@ -311,7 +298,7 @@ url:
 ---
 
 ---
-address: \u00e2\u20ac\u02dct Loo 13
+address: t Loo 13, 1851 HT Heiloo
 title: Van Os Mode Heiloo
 city: Heiloo
 zip: 1851 HT
@@ -468,7 +455,7 @@ url:
 
 ---
 address: Hoofdstraat 81
-title: Ben Borst Men\u00e2\u20ac\u2122s Fashion
+title: Ben Borst Men Fashion
 city: Noordwijk
 zip: 2202 EV
 country: Netherlands
@@ -520,7 +507,7 @@ url:
 
 ---
 address: De kempenaerstraat 69
-title: Schoonheids &#038; Kapsalon J. Veldman
+title: Schoonh.- & Kapsal. J. Veldman
 city: Oegstgeest
 zip: 2341 GJ
 country: Netherlands
@@ -689,7 +676,7 @@ url:
 
 ---
 address: Koningin Julianalaan 102
-title: Mari\u00c3\u00ablle Mode
+title: Mariëlle Mode
 city: Voorburg
 zip: 2274 JM
 country: Netherlands
@@ -1001,7 +988,7 @@ url:
 
 ---
 address: Molenstraat 204
-title: Bruidshuis &#8216;t Koetsje
+title: Bruidshuis 't Koetsje EDE
 city: Ede GL
 zip: 6712 CX
 country: Netherlands
@@ -1065,7 +1052,7 @@ url:
 ---
 
 ---
-address: Mari\u00c3\u00abngaerde 1
+address: Mariëngaerde 1, 4043 RA Opheusden
 title: Marilene Hoedenhuis
 city: Opheusden
 zip: 4043 RA
@@ -1170,7 +1157,7 @@ url:
 
 ---
 address: Korenstraat 122
-title: Shirt &#038; Co
+title: Shirt & Co
 city: Apeldoorn
 zip: 7311 LP
 country: Netherlands
@@ -1196,7 +1183,7 @@ url: http://www.prinsesbruidsmode.nl/
 
 ---
 address: Molenstraat - Centrum 441
-title: Valk &#038; Co. Maatkleding
+title: Valk & Co. Maatkleding
 city: Apeldoorn
 zip: 7311 XK
 country: Netherlands
@@ -1247,9 +1234,9 @@ url:
 ---
 
 ---
-address: Molendijk 8
-title: \u00e2\u20ac\u02dctWinkeltje
-city: \u00e2\u20ac\u02dcs Gravenmoer
+address: Molendijk 8, 5109 RN 's Gravenmoer
+title: B.V. 't Winkeltje
+city: s Gravenmoer
 zip: 5109 RN
 country: Netherlands
 lat: 51.658021
@@ -1352,7 +1339,7 @@ url:
 
 ---
 address: Looierstraat 25
-title: d&#8217;Amore Arnhem
+title: D'Amore Bruidssalon Arnhem
 city: Arnhem
 zip: 6811 AV
 country: Netherlands
@@ -1404,7 +1391,7 @@ url:
 
 ---
 address: Molenstraat 22
-title: Liz\u00e2\u20ac\u2122 Amore
+title: Liz'Amore
 city: Zevenbergen
 zip: 4761 CK
 country: Netherlands
@@ -1417,7 +1404,7 @@ url:
 
 ---
 address: Hoofdstraat 59
-title: Nederhoed Men\u00e2\u20ac\u2122s Fashion
+title: Nederhoed Men's Fashion
 city: Velp
 zip: 6881 TC
 country: Netherlands
@@ -1456,7 +1443,7 @@ url:
 
 ---
 address: Laar 8
-title: Van Tilburg Mode &#038; Sport BV
+title: Van Tilburg Mode & Sport BV
 city: Nistelrode
 zip: 5388 HE
 country: Netherlands
@@ -1534,7 +1521,7 @@ url:
 
 ---
 address: Markthof 11
-title: Men\u00e2\u20ac\u2122s House Mannenmode
+title: Men's House Mannenmode
 city: Etten-Leur
 zip: 4873 JA
 country: Netherlands
@@ -1586,7 +1573,7 @@ url:
 
 ---
 address: Pieter Stuyvesantweg 40
-title: Vince Bruidegom &#038; Zakelijke Mannenmode
+title: Vince Bruidegom & Zakelijke Mannenmode
 city: Sonnega
 zip: 8478 HE
 country: Netherlands
@@ -1612,7 +1599,7 @@ url:
 
 ---
 address: Nieuwstad 24
-title: Iloch\u00c3\u00a9
+title: Iloche
 city: Zutphen
 zip: 7201 NP
 country: Netherlands
@@ -1677,7 +1664,7 @@ url:
 
 ---
 address: Dijkstraat 69
-title: Nina&#8217;s Bruidsmode
+title: Nina's Bruidsmode
 city: Franeker
 zip: 8801 LT
 country: Netherlands
