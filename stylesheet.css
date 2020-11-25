@@ -1,6 +1,14 @@
+
 body {color: #3d2f26; background: #d8b494;}
 a {color: #3d2f26;}
 .container {max-width: 1200px; margin: 0 auto; background: white; padding: 20px;}
+
+#menu {border: 1px solid black; border-left: 0; border-right: 0; margin: 1rem 0;}
+#menu * {padding: 0; margin: 0;}
+#menu h2 {display: none;}
+#menu ul {display: flex; justify-content: flex-start; list-style: none;}
+#menu ul li {margin-right: 2rem;}
+#menu ul li a {text-decoration: none; display: block; padding: 0.5rem 0;}
 
 #store-locator {display: flex; height: 450px;}
 #store-locator #shoplist {min-width: 300px; width: 300px; overflow: auto;}
