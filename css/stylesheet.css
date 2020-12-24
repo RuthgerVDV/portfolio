@@ -15,3 +15,8 @@ body {color: #3d2f26; background: #4c8db1;}
     font-size: 1.2rem;
     text-decoration: none;
 }  
+.content img{
+    float:inline-end;
+    height: 250px;
+    width: 250px;
+}
