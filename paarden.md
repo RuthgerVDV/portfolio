@@ -1,0 +1,4 @@
+---
+title: Paarden
+layout: paarden
+---
