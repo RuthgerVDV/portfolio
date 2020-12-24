@@ -5,7 +5,7 @@
 {{content}}
 
 {% for item in site.horses %}
-{{ item.title }}
+<a href="{{ item.url }}">{{ item.title }}</a>
 {% endfor %}
 
 {% include footer.html %}
