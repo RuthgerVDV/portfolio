@@ -16,7 +16,30 @@ body {color: #3d2f26; background: #4c8db1;}
     text-decoration: none;
 }  
 .content img{
-    float:inline-end;
-    height: 250px;
-    width: 250px;
-}
+    position: absolute;
+    object-fit: cover;
+    height: 100% ;
+    width: 100% ;
+} 
+
+.container .paarden{
+    display: grid;
+   
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+     
+    grid-auto-rows: auto;
+     
+    grid-gap: 1rem;
+    
+
+
+
+    }
+.container .paarden > div{
+    position: relative;
+    }
+
+.container .paarden > div .image{
+    position: relative;
+    padding-bottom: 100%;
+    }

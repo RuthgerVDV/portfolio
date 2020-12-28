@@ -13,3 +13,7 @@ defaults:
       type: "horses"
     values:
       layout: "horse"
+
+sexes:
+  mannelijk 
+  Vrouwelijk 
