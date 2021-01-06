@@ -1,19 +1,2 @@
 url: https://ruthgervdv.github.io
 baseurl: /portfolio
-
-collections:
-  horses:
-    permalink: /paarden/:title
-    output: true
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "horses"
-    values:
-      layout: "horse"
-
-sexes:
-  mannelijk 
-  Vrouwelijk 
