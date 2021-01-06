@@ -1,4 +1,0 @@
----
-title: Paarden
-layout: horses
----
